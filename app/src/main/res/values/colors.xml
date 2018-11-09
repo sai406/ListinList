@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFF</color>
+    <color name="black">#000000</color>
+    <color name="login_grey">#6d6e71</color>
+    <!--<color name="login_grey"> #404042</color>-->
+
+
+    <color name="bg_grid">#2d2d2d</color>
+    <color name="red">#87754d</color>
+    <color name="red_conditions">#ff0000</color>
+    <!-- <color name="red">#87754d</color>-->
+
+    <color name="darkblue">#00008B</color>
+    <color name="navyblue">#036</color>
+    <color name="divider_color">#b5b5b5</color>
+    <color name="splash_orange_color">#FF4E00</color>
+
+    <color name="grey">#F0F0F0</color>
+    <color name="bg_blue">#00138B</color>
+    <color name="mybasketbtnbg">#BDBDBD</color>
+
+    <!--      <color name="header_orange">#f4821f</color> -->
+    <color name="header_orange">#87754d</color>
+    <color name="detailsimgbg">#cccccc</color>
+    <color name="only_bg">#fee2ca</color>
+    <color name="helpemail">#0080ff</color>
+    <color name="footergray">#6d6e71</color>
+
+    <color name="actionbar_bg">#d2232a</color>
+    <color name="primaryColor">#ffffff</color>
+    <color name="mainapp_bg">#ffffff</color>
+
+    <color name="urlheader">#d2232a</color>
+    <color name="url">#007AFF</color>
+    <color name="nav_list_selected_color">#d2232a</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="view_divider_color">#BABABA</color>
+    <color name="view_divider_color_2">#DADADA</color>
+</resources>
