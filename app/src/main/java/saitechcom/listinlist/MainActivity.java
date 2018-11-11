@@ -51,16 +51,8 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setMessage("Please Wait");
         progressDialog.show();
         RequestQueue queue = Volley.newRequestQueue(this);
-//		String url = "https://gmilink.com/d/AppServices/appcustomerreciept.aspx?cid=727460&mi=2708";
-//		String url = "https://gmilink.com/d/AppServices/appcustomerreciept.aspx?cid=";
-        String url = "http://kansolvetec.com/androidapps/new.json";
 
-// Request a string response from the provided URL.
-//		StringRequest stringRequest = new StringRequest(Request.Method.GET, url+customerId+"&mi="+ApiConstants.MERCHANT_ID,
-//				new Response.Listener<String>() {
-//
-//					@Override
-//					public void onResponse(String response) {
+        String url = "androidapps/new.json";
 
         JsonArrayRequest req = new JsonArrayRequest(url,
                 new Response.Listener<JSONArray>() {
